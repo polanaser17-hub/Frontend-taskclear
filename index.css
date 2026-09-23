@@ -1,0 +1,45 @@
+body {
+    font-family: "Inter", sans-serif;
+
+    background-color: #fbf9ff;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+h6 {
+    font-weight: 500;
+}
+
+p {
+    font-weight: 400;
+}
+
+.navbar {
+    background-color: #ffffff !important;
+}
+
+main {
+    max-width: 820px;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.form-check-input {
+    width: 24px;
+    height: 24px;
+}
+
+.form-check-input:checked {
+    background-color: #4f46e5;
+    border-color: #4f46e5;
+}
+
+footer {
+    background-color: #fbf9ff;
+}
